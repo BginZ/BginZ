@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BginZ
 - 👀 I’m interested in game programming and 3d modelling
-- 🌱 I’m currently learning JavaScript and Blender
-- 💞️ I’m looking to collaborate on any game related project to get a feel of real working environment and learn skill from professionals. (If you are willing accept a beginner into the team)
+- 🌱 I’m currently learning Blender
 - 📫 How to reach me : a.smithipanon@gmail.com ,  Line: asmith17715
 
 
